@@ -1,7 +1,2 @@
-# Code Institute
+# My Second Webpage
 
-Welcome COR1999,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
